@@ -1,0 +1,13 @@
+{
+  "document_id": "5468225c0720c2b6",
+  "uniqueness_score": 0.5512495040893555,
+  "is_unique": true,
+  "matched_patent": {
+    "filename": "US10929759.pdf",
+    "similarity_score": 0.4488
+  },
+  "agent_judgment": "(c)",
+  "timestamp": "2025-05-25T10:10:35.856811Z",
+  "token": "5468225c0720c2b67e31c857c8a9f84118823f14e75c22e5c4f3f27f69ccba27",
+  "diagnostic": ""
+}
