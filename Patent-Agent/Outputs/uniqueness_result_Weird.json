@@ -1,0 +1,12 @@
+{
+  "document_id": "fbfa5ad7d9aa0afe",
+  "uniqueness_score": 1.0004917901096366e-12,
+  "is_unique": false,
+  "matched_patent": {
+    "filename": "US11663182.pdf",
+    "similarity_score": 0.9999999999989995
+  },
+  "agent_judgment": "(b)",
+  "timestamp": "2025-05-24T09:39:27.778363Z",
+  "token": "fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d"
+}

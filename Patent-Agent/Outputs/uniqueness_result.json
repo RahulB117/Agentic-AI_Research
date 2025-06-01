@@ -1,0 +1,13 @@
+{
+  "document_id": "3a78cd7852e0bcfd",
+  "uniqueness_score": 1.0,
+  "is_unique": true,
+  "matched_patent": {
+    "filename": "US20190332921A1.pdf",
+    "similarity_score": 0.0
+  },
+  "agent_judgment": "(a)",
+  "timestamp": "2025-05-24T10:26:59.864573Z",
+  "token": "3a78cd7852e0bcfd6202bca457f1c721f6e5b09eae4d70110efa882ee7a2de6e",
+  "diagnostic": ""
+}
